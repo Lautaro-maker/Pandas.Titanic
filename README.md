@@ -1,6 +1,6 @@
 # DA.Titanic.SurvivalAnalysis
 
-Titanic dataset analysis and exploratory data visualization using Python, Pandas, and Seaborn. The project analyzes survival rates by age groups, gender, and passenger class using relative frequencies and demographic distributions.
+Titanic dataset analysis and exploratory data visualization using Python, Pandas, and Seaborn. The project analyzes survival rates by age groups, gender, and passenger class using relative frequencies and demographic distributions. Proyect url: https://roadmap.sh/projects/titanic-eda-python
 
 📖 Project Description
 This project consists of a Python script developed within the Jupyter Notebook interactive environment. Its main objective is to perform exploratory data analysis (EDA) on the Titanic passenger dataset, cleaning age features, handling data types, and calculating relative survival rates.
